@@ -10,12 +10,17 @@ The code outputs two documents in xlsx format: initial_results.xlsx is needed fo
 Python libraries used in the code:
 
 Requests - for making HTTP requests;
+
 BeautifulSoup - for parsing HTML documents;
+
 Xlsxwriter - for creating Excel files;
+
 Openpyxl - for editing Excel files;
+
 ThreadPoolExecutor - for more efficient and faster code execution;
+
 Time - for measuring the execution time of the code.
-The methodology is demonstrated in the form of a process map.
-The process map is provided as a separate file (Process Map.pdf) for more comfortable perception.
+
+The methodology is demonstrated in the form of a process map (Process Map.pdf).
 
 To speed up the execution of the code, multithreading technology was used.
