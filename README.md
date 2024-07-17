@@ -21,6 +21,7 @@ ThreadPoolExecutor - for more efficient and faster code execution;
 
 Time - for measuring the execution time of the code.
 
+
 The methodology is demonstrated in the form of a process map (Process Map.pdf).
 
 To speed up the execution of the code, multithreading technology was used.
