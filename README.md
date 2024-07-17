@@ -1,4 +1,7 @@
 # PARSING-MINISTRY-OF-JUSTICE-OF-THE-SLOVAK-REPUBLIC-COMMERCIAL-REGISTER-DATABASE
+
+The code is demonstrated in the file `sldb.py`.
+
 Parsing data from www.orsr.sk/default.asp.
 
 For data parsing, a method of searching by organization name was chosen, using this link: https://www.orsr.sk/search_subjekt.asp.
